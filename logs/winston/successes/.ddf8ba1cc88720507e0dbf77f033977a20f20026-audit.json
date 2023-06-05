@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/.ddf8ba1cc88720507e0dbf77f033977a20f20026-audit.json",
+    "files": [
+        {
+            "date": 1685800427659,
+            "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-03-06-19-success.log",
+            "hash": "9632163cefead7b4f0cf4685f7517ba1c986288ddbe7d620fb28a731a2e0b59b"
+        },
+        {
+            "date": 1685806911296,
+            "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-03-06-21-success.log",
+            "hash": "f254fc034a4d60b56734d534bd0a4aa5a88a2ae435fcc35d9caf019cd0616316"
+        },
+        {
+            "date": 1685810280155,
+            "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-03-06-22-success.log",
+            "hash": "54cae872df28d9f7a594683cdda0414edfa8a7591d3f0947dca995e0d210aa40"
+        }
+    ],
+    "hashType": "sha256"
+}
