@@ -19,6 +19,31 @@
             "date": 1685810280251,
             "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-03-06-22-error.log",
             "hash": "e44deedc5a4b429b27d6c9477fa38a09bfabf7c4ba14c8fb5a9ea4d2f0ca9c62"
+        },
+        {
+            "date": 1685995809905,
+            "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-06-06-02-error.log",
+            "hash": "8d68ad5f4874bf7baeb0ae501323803721167445ac65bf2dc1e291b70389e947"
+        },
+        {
+            "date": 1686064187167,
+            "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-06-06-21-error.log",
+            "hash": "466baac56bfe7d3742e78b9ba4d311a34eef87c1d251c3dc879ddea70d51ff49"
+        },
+        {
+            "date": 1686074343364,
+            "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-06-06-23-error.log",
+            "hash": "c16bb611b2dfa45abf570edf55ddba42a0a868500a8d8bb926d61bdb904fd967"
+        },
+        {
+            "date": 1686075053304,
+            "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-07-06-00-error.log",
+            "hash": "ded3f345fe52ed45a99ec0f2ae402876d0a80ade21d64cc9a0978c8f27be3337"
+        },
+        {
+            "date": 1686078205439,
+            "name": "/media/owakeel/New Volume/Programming Hero/Next Level Web Development/university-management-auth-service-backend/logs/winston/successes/un-2023-07-06-01-error.log",
+            "hash": "03aa517fa9d7362b879e90244e0ca201372a53c016ecede6f52bc6e8179a4b69"
         }
     ],
     "hashType": "sha256"
