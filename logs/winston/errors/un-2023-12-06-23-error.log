@@ -1,0 +1,4 @@
+Mon Jun 12 2023 23: 29: 8 [University-Management] error: Cast to ObjectId failed for value "6487125a8366e" (type string) at path "_id" for model "AcademicSemester"
+Mon Jun 12 2023 23: 37: 11 [University-Management] error: Cast to ObjectId failed for value "648712538366eb5c5a335" (type string) at path "_id" for model "AcademicSemester"
+Mon Jun 12 2023 23: 46: 24 [University-Management] error: Cast to ObjectId failed for value "648712538366eb5c5" (type string) at path "_id" for model "AcademicSemester"
+Mon Jun 12 2023 23: 50: 6 [University-Management] error: Cast to ObjectId failed for value "648712538366eb5c5a3354c" (type string) at path "_id" for model "AcademicSemester"
